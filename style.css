@@ -49,6 +49,14 @@ body {
     z-index: -1;
 }
 
+
+@media(max-width: 1080px) {
+    .element {
+   width: 300px;
+   left: 0;
+    }
+}
+
 .container {
     max-width: 1480px;
     width: 100%;
